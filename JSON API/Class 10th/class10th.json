@@ -1,0 +1,21 @@
+{
+    "class": "Class 10th",
+    "message": "Hello World 1",
+    "links": [
+        {
+            "text": "Server 1",
+            "url": "na",
+            "status": "1"
+        },
+        {
+            "text": "Server 2",
+            "url": "na",
+            "status": "1"
+        },
+        {
+            "text": "Server 3",
+            "url": "na",
+            "status": "1"
+        }
+    ]
+}
