@@ -4,17 +4,17 @@
     "links": [
         {
             "text": "Server 1",
-            "url": "na",
+            "url": "https://www.geeksforgeeks.org/android-webview-in-kotlin/",
             "status": "1"
         },
         {
             "text": "Server 2",
-            "url": "na",
+            "url": "https://www.geeksforgeeks.org/android-webview-in-kotlin/",
             "status": "1"
         },
         {
             "text": "Server 3",
-            "url": "na",
+            "url": "https://www.geeksforgeeks.org/android-webview-in-kotlin/",
             "status": "1"
         }
     ]
