@@ -4,17 +4,17 @@
     "links": [
         {
             "text": "Server 1",
-            "url": "na",
+            "url": "https://cbseresults.nic.in/class-twelfth/class12th22.htm",
             "status": "1"
         },
         {
             "text": "Server 2",
-            "url": "na",
+            "url": "https://testservices.nic.in/cbseResults2022/class12-2022/Class12th22.htm",
             "status": "1"
         },
         {
             "text": "Server 3",
-            "url": "na",
+            "url": "https://cnr.nic.in/CBSEResults/class12-2022/Class12th22.htm",
             "status": "1"
         }
     ]
