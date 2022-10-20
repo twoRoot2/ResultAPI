@@ -1,6 +1,6 @@
 {
     "class": "Class 12th",
-    "message": "Hello World 2",
+    "message": "केन्द्रीय माध्यमिक शिक्षा बोर्ड || Central Board of Secondary Education || CBSE Exam Results Class 12th",
     "links": [
         {
             "text": "Server 1",
@@ -15,6 +15,16 @@
         {
             "text": "Server 3",
             "url": "https://cnr.nic.in/CBSEResults/class12-2022/Class12th22.htm",
+            "status": "1"
+        },
+        {
+            "text": "Compartment",
+            "url": "https://cbseresults.nic.in/class-twelfth/Class12th22Compart.htm",
+            "status": "1"
+        },
+        {
+            "text": "Rechecking Result (Lot 5) 1st sept",
+            "url": "https://cbseresults.nic.in/class-twelfth/class12th22L5.htm",
             "status": "1"
         }
     ]
